@@ -13,6 +13,13 @@ public class Sample3 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /*
+         * 
+         * GameObjectを拡大縮小させるにはlocalScaleを操作します。
+         * localScaleはVector3型です。
+         * Vector3.oneはx,y,zの値が全て1になります。
+         * 
+        */
         transform.localScale += Vector3.one;
     }
 }
