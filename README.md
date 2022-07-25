@@ -4,22 +4,21 @@
 
 ## 行ったことの目次
 
-- [2022_07_20 勉強会](#2022_07_20-勉強会)
-  - [行ったことの目次](#行ったことの目次)
-    - [Unityプロジェクトの立ち上げ方法を学ぶ](#unityプロジェクトの立ち上げ方法を学ぶ)
-    - [3D空間にGameObjectを配置する](#3d空間にgameobjectを配置する)
-    - [3D空間にMeshなどの特殊なGameObjectの配置する](#3d空間にmeshなどの特殊なgameobjectの配置する)
-    - [リソースファイルをUnityで使う準備をする](#リソースファイルをunityで使う準備をする)
-    - [マテリアル](#マテリアル)
-    - [3D空間にMeshなどの特殊なGameObjectを配置する](#3d空間にmeshなどの特殊なgameobjectを配置する)
-    - [3D空間にモデルファイルを展開して配置する](#3d空間にモデルファイルを展開して配置する)
-    - [Prefab](#prefab)
-    - [GameObjectを操作するScriptを作成する。](#gameobjectを操作するscriptを作成する)
-    - [GameObjectにScriptの適用させる](#gameobjectにscriptの適用させる)
-    - [Editor上で実行する方法](#editor上で実行する方法)
-    - [GameObjectの親子関係(階層構造)](#gameobjectの親子関係階層構造)
-    - [キーボードでの操作](#キーボードでの操作)
-    - [用語集](#用語集)
+
+- [Unityプロジェクトの立ち上げ方法を学ぶ](#unityプロジェクトの立ち上げ方法を学ぶ)
+- [3D空間にGameObjectを配置する](#3d空間にgameobjectを配置する)
+- [3D空間にMeshなどの特殊なGameObjectの配置する](#3d空間にmeshなどの特殊なgameobjectの配置する)
+- [リソースファイルをUnityで使う準備をする](#リソースファイルをunityで使う準備をする)
+- [マテリアル](#マテリアル)
+- [3D空間にMeshなどの特殊なGameObjectを配置する](#3d空間にmeshなどの特殊なgameobjectを配置する)
+- [3D空間にモデルファイルを展開して配置する](#3d空間にモデルファイルを展開して配置する)
+- [Prefab](#prefab)
+- [GameObjectを操作するScriptを作成する。](#gameobjectを操作するscriptを作成する)
+- [GameObjectにScriptの適用させる](#gameobjectにscriptの適用させる)
+- [Editor上で実行する方法](#editor上で実行する方法)
+- [GameObjectの親子関係(階層構造)](#gameobjectの親子関係階層構造)
+- [キーボードでの操作](#キーボードでの操作)
+- [用語集](#用語集)
 
 ### Unityプロジェクトの立ち上げ方法を学ぶ
 1. Unity Hubを開く
