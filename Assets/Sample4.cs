@@ -13,6 +13,11 @@ public class Sample4 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /*
+            Destroyメソッドで対象のGameObjectを削除します。
+            メソッドは機能をまとめた物です。
+            定義方法はUpdate,Startなどと同じように作成できます。
+        */
         Destroy(gameObject);
     }
 }
